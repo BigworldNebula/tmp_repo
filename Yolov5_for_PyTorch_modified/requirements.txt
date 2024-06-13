@@ -1,0 +1,21 @@
+# Base ----------------------------------------
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow==9.1.0
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+torchvision==0.12.0 
+tqdm>=4.41.0
+
+# Plotting ------------------------------------
+pandas>=1.1.4
+seaborn==0.11.2
+
+pycocotools>=2.0  # COCO mAP
+thop  # FLOPs computation
+
+#torch-1.11.0-cp39-cp39-manylinux2014_aarch64.whl
+#torch_npu-1.11.0.post4-cp39-cp39-linux_aarch64.whl
+#apex-0.1_ascend-cp39-cp39-linux_aarch64.whl

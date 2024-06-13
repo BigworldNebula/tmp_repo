@@ -1,0 +1,6 @@
+path: PCB_DATASET_COCO
+train: train2017.txt
+val: val2017.txt
+test: test-dev2017.txt
+nc: 5
+names: ['Mouse_bite','Open_circuit','Short','Spur','Spurious_copper']
